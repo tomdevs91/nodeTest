@@ -1,0 +1,22 @@
+{
+  "name": "nodetest",
+  "version": "1.0.0",
+  "description": "Seljina srtanja",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tomdevs91/nodeTest.git"
+  },
+  "author": "Uros cetvrtina",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tomdevs91/nodeTest/issues"
+  },
+  "homepage": "https://github.com/tomdevs91/nodeTest#readme",
+  "dependencies": {
+    "axios": "^0.26.0"
+  }
+}
